@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[das:home|Door43 (das)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-das|d43-das repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-das/archive/master.zip|d43-das.zip]]
+
+**Recent Changes**
+{{changes>ns = das}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/das|Ethnologue data]]
+
